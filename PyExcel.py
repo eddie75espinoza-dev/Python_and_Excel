@@ -8,7 +8,7 @@ win.title("Registro") #Nombre de la ventana de registro
 
 #Ruta del archivo usado por openpyxl
 path = r'C:\Users\Familia Espinoza\Desktop\Python'
-dest_filename = r'C:\Users\Familia Espinoza\Desktop\Python\Libro1.xlsx'
+dest_filename = r'C:\Users\user\Desktop\Python\Libro1.xlsx'
 
 #Del modulo 'openpyxl' activa el libro de excel
 wb = Workbook()
