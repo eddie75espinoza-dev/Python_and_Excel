@@ -16,6 +16,7 @@ img_icon = PhotoImage(file = 'LogoE256.png')
 win.call('wm', 'iconphoto', win._w, img_icon)
 
 #Ruta del archivo usado por openpyxl
+
 path = r'.\Python\PyExcel' #Ruta Archivo
 dest_filename = r'.\Libro1.xlsx' # Archivo destino
 
