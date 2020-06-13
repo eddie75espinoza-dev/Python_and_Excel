@@ -7,6 +7,9 @@ Referencia: https://openpyxl.readthedocs.io/en/stable/index.html
 
 Esta biblioteca es bastante amplia aunque todavía no está desarrollada al 100%, con ella se puede desde manipular los archivos hasta realizar gráficos.
 
-Este GUI es a modo de prueba, no tiene validadores de campos, solo se trata de verificar la funcionalidad de los modulos con Python.
+Esta aplicación es una prueba de conexion con un archivo de excel, permite el registro de datos,
+tiene un validador de campo en blanco. No se implementó para incorporar varios registros al mismo
+archivo excel. Con la librería OPENPYXL se puede hacer la conexion, y trabajar con la mayoría de
+las funciones de excel.
 
 Objetivo básico de aprendizaje y desarrollo.
